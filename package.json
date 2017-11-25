@@ -1,0 +1,19 @@
+{
+  "name": "@axetroy/unit",
+  "version": "1.0.0",
+  "description": "Common units module",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axetroy/unit.git"
+  },
+  "author": "Axetroy",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/axetroy/unit/issues"
+  },
+  "homepage": "https://github.com/axetroy/unit#readme"
+}
